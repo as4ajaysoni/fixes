@@ -1,5 +1,6 @@
 #!/bin/bash
 
+export COLORTERM=truecolor
 echo "Fixing OpenCode theme error..."
 
 # Backup existing config
